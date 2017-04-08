@@ -1,2 +1,2 @@
 # EJBadass
-[ISIMA3] Java Pro project about reproducing an EJB container
+Java Pro project about reproducing an EJB container available here: https://github.com/EJBadass.
